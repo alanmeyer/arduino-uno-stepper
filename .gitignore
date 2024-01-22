@@ -1,0 +1,7 @@
+# ignore everything except file types specified here
+*
+
+!.gitignore
+!*.ino
+LICENSE
+README.md
